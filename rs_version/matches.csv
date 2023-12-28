@@ -1,0 +1,303 @@
+id,match_date,match_time,country,competition,home_team,away_team,home_team_table_position,away_team_position,home_team_ht_score,away_team_ht_score,home_team_ft_score,away_team_ft_score
+1,12/24/2023,14:00:00,England,Premier League,Wolves,Chelsea,,,0,0,2,1
+2,12/23/2023,16:00:00,England,Premier League,Fulham,Burnley,,,0,0,0,2
+3,12//23/2023,16:00:00,England,Premier League,Nottingham,Bournemouth,,,0,0,2,3
+4,12-23/2023,13:30:00,England,Premier League,West Ham,Manchester Utd,,,0,0,2,0
+5,12/22/2023,21:00:00,England,Premier League,Aston Villa,Sheffield Utd,,,0,0,1,1
+6,12/17/2023,17:30:00,England,Premier League,Liverpool,Manchester Utd,,,0,0,0,0
+7,12/17/2023,15:00:00,England,Premier League,Arsenal,Brighton,,,0,0,2,0
+8,12/16/2023,16:00:00,England,Premier League,Chelsea,Sheffield Utd,,,0,0,2,0
+9,12/16/2023,16:00:00,England,Premier League,Newcastle,Fulham,,,0,0,3,0
+10,12/10/23,15:00:00,England,Premier League,Everton,Chelsea,,,0,0,2,0
+11,12/09/23,13:30:00,England,Premier League,Crystal Palace,Liverpool,,,0,0,1,2
+12,12/07/23,20:30:00,England,Premier League,Everton,Newcastle,,,0,0,3,0
+13,12/06/23,21:15:00,England,Premier League,Aston Villa,Manchester City,,,0,0,1,0
+14,12/02/23,21:00:00,England,Premier League,Newcastle,Manchester Utd,,,0,0,1,0
+15,12/02/23,,England,Premier League,Nottingham,Everton,,,0,0,0,1
+16,12/02/23,16:00:00,England,Premier League,Brentford,Luton,,,0,0,3,1
+17,11/25/23,,England,Premier League,Brentford,Arsenal,,,0,0,0,1
+18,11/25/23,,England,Premier League,Burnley,West Ham,,,0,0,1,2
+19,11/25/23,,England,Premier League,Luton,Crystal Palace,,,0,0,2,1
+20,11/11/23,,England,Premier League,Bournemouth,Newcastle,,,0,0,2,0
+21,11/11/23,,England,Premier League,Manchester Utd,Luton,,,0,0,1,0
+22,11/05/23,,England,Premier League,Luton,Liverpool,,,0,0,1,1
+23,11/04/23,,England,Premier League,Newcastle,Arsenal,,,0,0,1,0
+24,11/04/23,,England,Premier League,Sheffield Utd,Wolves,,,0,0,2,1
+25,11/04/23,,England,Premier League,Fulham,Manchester Utd,,,0,0,0,1
+26,10/29/23,,England,Premier League,West Ham,Everton,,,0,0,0,1
+27,10/28/23,,England,Premier League,Chelsea,Brentford,,,0,0,0,2
+28,10/27/23,,England,Premier League,Crystal Palace,Tottenham,,,0,0,1,2
+29,10/21/23,,England,Premier League,Nottingham,Luton,,,0,0,2,2
+30,10/21/23,,England,Premier League,Liverpool,Everton,,,0,0,2,0
+31,10/8/23,,England,Premier League,Arsenal,Manchester City,,,0,0,1,0
+32,10/8/23,,England,Premier League,Wolves,Arsenal,,,0,0,1,1
+33,10/7/23,,England,Premier League,Crystal Palace,Nottingham,,,0,0,0,0
+34,10/7/23,,England,premier League,Fulham,Sheffield Utd,,,0,0,3,1
+35,10/7/23,,England,premier League,Luton,Tottenham,,,0,0,0,1
+36,10/1/23,,England,premier League,Nottingham,Brentford,,,0,0,1,1
+37,9/24/23,,England,premier League,Chelsea,Aston Villa,,,0,0,0,1
+38,9/23/23,,england,premier League,Crystal Palace,Fulham,,,0,0,0,0
+39,9/23/23,,england,premier League,Luton,Wolves,,,0,0,1,1
+40,9/17/23,,england,premier League,Everton,Arsenal,,,0,0,0,1
+41,9/17/23,,england,premier League,Bournemouth,Chelsea,,,0,0,0,0
+42,9/16/23,,england,premier League,Newcastle,Brentford,,,0,0,1,0
+43,9/16/23,,england,premier League,Aston Villa,Crystal Palace,,,0,0,3,1
+44,9/16/23,,england,premier League,Fulham,Luton,,,0,0,1,0
+45,9/16/23,,england,premier League,Tottenham,Sheffield Utd,,,0,0,2,1
+46,9/3/23,,england,premier League,Crystal Palace,Wolves,,,0,0,3,2
+47,9/2/23,,england,premier League,Chelsea,Nottingham,,,0,0,0,1
+48,8/28/23,,england,premier League,Sheffield Utd,Manchester City,,,0,0,1,2
+49,8/26/23,,england,premier League,Everton,Wolves,,,0,0,0,1
+50,8/21/23,,england,premier League,Crystal Palace,Arsenal,,,0,0,0,1
+51,8/19/23,,england,premier League,Tottenham,Manchester Utd,,,0,0,2,0
+52,8/14/23,,england,premier League,Manchester Utd,Wolves,,,0,0,1,0
+53,8/12/23,,england,premier League,Bournemouth,West Ham,,,0,0,1,1
+54,8/12/23,,england,premier League,everton,fulham,,,0,0,0,1
+55,8/12/23,,england,premier League,Sheffield Utd,crystal Palace,,,0,0,0,1
+56,5/28/23,,england,premier League,Brentford,manchester city,,,0,0,1,0
+57,5/28/23,,england,premier League,everton,Bournemouth,,,0,0,1,0
+58,5/22/23,,england,premier League,Newcastle,leicester,,,0,0,0,0
+59,5/14/23,,england,premier League,arsenal,Brighton,,,0,0,0,3
+60,5/13/23,,england,premier League,southampton,fulham,,,0,0,0,2
+61,5/4/23,,england,premier League,brighton,Manchester Utd,,,0,0,1,0
+62,5/3/23,,england,premier League,manchester city,west Ham,,,0,0,3,0
+63,4/27/23,,england,premier League,southampton,Bournemouth,,,0,0,0,1
+64,4/22/23,,england,premier League,brentford,Aston Villa,,,0,0,1,1
+65,4/22/23,,england,premier League,Crystal Palace,everton,,,0,0,0,0
+66,4/22/23,,england,premier League,liverpool,Nottingham,,,0,0,3,2
+67,4/22/23,,england,premier League,fulham,leeds,,,0,0,2,1
+68,4/15/23,,england,premier League,southampton,crystal Palace,,,0,0,0,2
+69,4/8/23,,england,premier League,Aston Villa,Nottingham,,,0,0,2,0
+70,4/4/23,,england,premier League,Chelsea,Liverpool,,,0,0,0,0
+71,4/3/23,,england,premier League,everton,Tottenham,,,0,0,2,0
+72,4/2/23,,england,premier League,Newcastle,Manchester Utd,,,0,0,2,0
+73,4/1/23,,england,premier League,crystal Palace,leicester,,,0,0,2,1
+74,3/18/23,,england,premier League,Chelsea,everton,,,0,0,2,2
+75,3/12/23,,england,premier League,Manchester Utd,southampton,,,0,0,0,0
+76,3/11/23,,england,premier League,crystal Palace,manchester city,,,0,0,0,1
+77,3/2/23,,england,premier League,Chelsea,leeds,,,0,0,1,0
+78,3/4/23,,england,premier League,Wolves,Tottenham,,,0,0,1,0
+79,3/1/23,,england,premier League,liverpool,Wolves,,,0,0,2,0
+80,2/26/23,,england,premier League,Tottenham,Chelsea,,,0,0,2,0
+81,2/26/23,,england,premier League,crystal Palace,liverpool,,,0,0,0,0
+82,2/25/23,,england,premier League,everton,Aston Villa,,,0,0,0,2
+83,2/25/23,,england,premier League,leeds,southampton,,,0,0,1,0
+84,2/25,,england,premier League,leicester,Arsenal,,,0,0,0,1
+85,2/25/23,,england,premier League,West Ham,Nottingham,,,0,0,4,0
+86,2/19/23,,england,premier League,Tottenham,west Ham,,,0,0,2,0
+87,2/18/23,,england,premier League,brentford,crystal Palace,,,0,0,1,1
+88,2/18/23,,england,premier League,brighton,fulham,,,0,0,0,1
+89,2/18/23,,england,premier League,everton,leeds,,,0,0,1,0
+90,2/18/23,,england,premier League,Wolves,Bournemouth,,,0,0,0,1
+91,2/12/23,,england,premier League,leeds,Manchester Utd,,,0,0,0,2
+92,2/11/23,,england,premier League,arsenal,brentford,,,0,0,1,1
+93,2/11/23,,england,premier League,crystal Palace,Brighton,,,0,0,1,1
+94,2/4/23,,england,premier League,brighton,Bournemouth,,,0,0,1,0
+95,2/4/23,,england,premier League,everton,Arsenal,,,0,0,1,0
+96,2/3/23,,england,premier League,Chelsea,fulham,,,0,0,0,0
+97,1/22/23,,england,premier League,leeds,brentford,,,0,0,0,0
+98,1/21/23,,england,premier League,crystal Palace,Newcastle,,,0,0,0,0
+99,1/21/23,,england,premier League,southampton,Aston Villa,,,0,0,0,1
+100,1/21/23,,england,premier League,liverpool,Chelsea,,,0,0,0,0
+101,1/15/23,,england,premier League,Chelsea,crystal Palace,,,0,0,1,0
+102,1/15/23,,england,premier League,Newcastle,fulham,,,0,0,1,0
+103,1/14/23,,england,premier League,brighton,liverpool,,,0,0,3,0
+104,1/14/23,,england,premier League,nottingham,leicester,,,0,0,2,0
+105,1/14/23,,england,premier League,wolves,west Ham,,,0,0,1,0
+106,1/14/23,,england,premier League,manchester utd,manchester city,,,0,0,2,1
+107,1/5/23,,england,premier league,chelsea,manchester city,,,0,0,0,1
+108,1/4/23,,england,premier league,crystal Palace,Tottenham,,,0,0,0,4
+109,1/3/23,,england,premier league,arsenal,Newcastle,,,0,0,0,0
+110,1/1/23,,england,premier league,Tottenham,aston Villa,,,0,0,0,2
+111,12/31/22,,england,premier league,newcastle,leeds,,,0,0,0,0
+112,12/31/22,,england,premier league,wolves,manchester utd,,,0,0,0,1
+113,11/12/22,,england,premier league,wolves,Arsenal,,,0,0,0,2
+114,11/12/22,,england,premier league,newcastle,Chelsea,,,0,0,1,0
+115,11/12/22,,england,premier league,nottingham,crystal Palace,,,0,0,1,0
+116,11/6/22,,england,premier league,chelsea,Arsenal,,,0,0,0,1
+117,10/29/22,,england,premier league,fulham,everton,,,0,0,0,0
+118,10/29/22,,england,premier league,brentford,Wolves,,,0,0,1,1
+119,10/29/22,,england,premier league,leicester,manchester city,,,0,0,0,1
+120,10/22/22,,england,premier league,chelsea,manchester utd,,,0,0,1,1
+121,10/22/22,,england,premier league,nottingham,liverpool,,,0,0,1,0
+122,10/19/22,,england,premier league,manchester utd,Tottenham,,,0,0,2,0
+123,10/19/22,,england,premier league,brentford,Chelsea,,,0,0,0,0
+124,10/18/22,,england,premier league,brighton,Nottingham,,,0,0,0,0
+125,10/16/22,,england,premier league,liverpool,manchester city,,,0,0,1,0
+126,10/16/22,,england,premier league,manchester utd,newcastle,,,0,0,0,0
+127,10/15/22,,england,premier league,Tottenham,everton,,,0,0,2,0
+128,10/15/22,,england,premier league,wolves,nottingham,,,0,0,1,0
+129,10/15/22,,england,premier league,leicester,crystal Palace,,,0,0,0,0
+130,10/2/22,,england,premier league,leeds,aston Villa,,,0,0,0,0
+131,10/1/22,,england,premier league,bournemouth,brentford,,,0,0,0,0
+132,10/1/22,,england,premier league,southampton,everton,,,0,0,1,2
+133,9/18/22,,england,premier league,everton,west Ham,,,0,0,1,0
+134,9/17/22,,england,premier league,newcastle,Bournemouth,,,0,0,1,1
+135,9/3/22,,england,premier league,Aston Villa,manchester city,,,0,0,1,1
+136,9/3/22,,england,premier league,chelsea,west Ham,,,0,0,2,1
+137,9/3/22,,england,premier league,newcastle,crystal Palace,,,0,0,0,0
+138,9/3/22,,england,premier league,everton,liverpool,,,0,0,0,0
+139,8/31/22,,england,premier league,bournemouth,Wolves,,,0,0,0,0
+140,8/31/22,,england,premier league,crystal Palace,brentford,,,0,0,1,1
+141,8/30/22,,england,premier league,fulham,Brighton,,,0,0,2,1
+142,8/28/22,,england,premier league,Aston Villa,west Ham,,,0,0,0,1
+143,8/27/22,,england,premier league,arsenal,fulham,,,0,0,2,1
+144,8/27/22,,england,premier league,chelsea,leicester,,,0,0,2,1
+145,8/27/22,,england,premier league,southampton,manchester utd,,,0,0,0,1
+146,8/20/22,,england,premier league,everton,nottingham,,,0,0,1,1
+147,8/20/22,,england,premier league,leicester,southampton,,,0,0,1,2
+148,8/20/22,,england,premier league,Tottenham,Wolves,,,0,0,1,0
+149,8/13/22,,england,premier league,brighton,newcastle,,,0,0,0,0
+150,8/13/22,,england,premier league,wolves,fulham,,,0,0,0,0
+151,8/13/22,,england,premier league,southampton,leeds,,,0,0,2,2
+152,8/6/22,,england,premier league,newcastle,nottingham,,,0,0,2,0
+153,12/13/23,,champions league,group stage,dortmund,psg,,,0,0,1,1
+154,12/13/23,,champions league,group stage,rb leipzig,young boys,,,0,0,2,1
+155,12/12/23,,champions league,group stage,fc copenhagen,galatasaray,,,0,0,1,0
+156,12/12/23,,champions league,group stage,inter,real sociedad,,,0,0,0,0
+157,12/12/23,,champions league,group stage,manchester utd,bayern munich,,,0,0,0,1
+158,12/12/23,,champions league,group stage,lens,sevilla,,,0,0,2,1
+159,11/29/23,,champions league,group stage,bayern munich,fc copenhagen,,,0,0,0,0
+160,11/29/23,,champions league,group stage,real sociedad,salzburg,,,0,0,0,0
+161,11/28/23,,champions league,group stage,lazio,celtic,,,0,0,2,0
+162,11/8/23,,champions league,group stage,bayern munich,galatasaray,,,0,0,2,1
+163,11/8/23,,champions league,group stage,salzburg,inter,,,0,0,0,1
+164,10/25/23,,champions league,group stage,young boys,manchester city,,,0,0,1,3
+165,10/24/23,,champions league,group stage,benfica,real sociedad,,,0,0,0,1
+166,10/24/23,,champions league,group stage,lens,psv,,,0,0,1,1
+167,10/24/23,,champions league,group stage,manchester utd,fc copenhagen,,,0,0,1,0
+168,10/24/23,,champions league,group stage,union berlin,napoli,,,0,0,0,1
+169,10/4/23,,champions league,group stage,dortmund,ac milan,,,0,0,0,0
+170,10/3/23,,champions league,group stage,fc copenhagen,bayern munich,,,0,0,1,2
+171,10/3/23,,champions league,group stage,inter,benfica,,,0,0,1,0
+172,10/3/23,,champions league,group stage,psv,sevilla,,,0,0,2,2
+173,9/20/23,,champions league,group stage,real madrid,union berlin,,,0,0,1,0
+174,9/19/23,,champions league,group stage,psg,dortmund,,,0,0,2,0
+175,9/19/23,,champions league,group stage,ac milan,newcastle,,,0,0,0,0
+176,6/10/23,,champions league,final,manchester city,inter,,,0,0,1,0
+177,5/16/23,,champions league,semi-finals,inter,ac milan,,,0,0,1,0
+178,4/19/23,,champions league,quarter-finals,bayern munich,manchester city,,,0,0,1,1
+179,4/18/23,,champions league,quarter-finals,chelsea,real madrid,,,0,0,0,2
+180,4/11/23,,champions league,quarter-finals,benfica,inter,,,0,0,0,2
+181,3/15/23,,champions league,round of 16,real madrid,liverpool,,,0,0,1,0
+182,3/14/23,,champions league,round of 16,fc porto,inter,,,0,0,0,0
+183,3/8/23,,champions league,round of 16,Tottenham,ac milan,,,0,0,0,0
+184,3/8/23,,champions league,round of 16,bayern munich,psg,,,0,0,2,0
+185,2/22/23,,champions league,round of 16,inter,fc porto,,,0,0,1,0
+186,2/15/23,,champions league,round of 16,club brugge,benfica,,,0,0,0,2
+187,2/15/23,,champions league,round of 16,dortmund,Chelsea,,,0,0,1,0
+188,2/14/23,,champions league,round of 16,psg,bayern munich,,,0,0,0,1
+189,1/11/23,,champions league,group stage,bayer leverkusen,club brugge,,,0,0,0,0
+190,1/11/23,,champions league,group stage,liverpool,napoli,,,0,0,2,0
+191,10/25/22,,champions league,group stage,dortmund,manchester city,,,0,0,0,0
+192,10/25/22,,champions league,group stage,sevilla,fc copenhagen,,,0,0,3,0
+193,10/12/22,,champions league,group stage,atletico madrid,club brugge,,,0,0,0,0
+194,10/11/22,,champions league,group stage,fc copenhagen,manchester city,,,0,0,0,0
+195,10/11/22,,champions league,group stage,celtic,rb leipzig,,,0,0,0,2
+196,10/11/22,,champions league,group stage,shakhtar donetsk,real madrid,,,0,0,1,1
+197,10/5/22,,champions league,group stage,salzburg,d. zagreb,,,0,0,1,0
+198,10/4/22,,champions league,group stage,eintracht frankfurt,Tottenham,,,0,0,0,0
+199,10/4/22,,CHampions league,group stage,FC POrto,bayer leverkusen,,,0,0,2,0
+200,9/14/22,,CHampions league,group stage,fc copenhagen,sevilla,,,0,0,0,0
+201,9/14/22,,champions league,group stage,chelsea,salzburg,,,0,0,1,1
+202,9/14/22,,champions league,group stage,manchester city,dortmund,,,0,0,2,1
+203,9/14/22,,champions league,group stage,rangers,napoli,,,0,0,0,3
+204,9/14/22,,champions league,group stage,real madrid,rb leipzig,,,0,0,2,0
+205,9/13/22,,champions league,group stage,bayer leverkusen,atletico madrid,,,0,0,2,0
+206,9/13/22,,champions league,group stage,bayern munich,barcelona,,,0,0,2,0
+207,9/13/22,,champions league,group stage,sporting cp,Tottenham,,,0,0,2,0
+208,9/7/22,,champions league,group stage,atletico madrid,fc porto,,,0,0,2,1
+209,9/7/22,,champions league,group stage,Tottenham,marseille,,,0,0,2,0
+210,9/7/22,,champions league,group stage,eintracht frankfurt,sporting cp,,,0,0,0,3
+211,9/6/22,,champions league,group stage,benfica,maccabi haifa,,,0,0,2,0
+212,9/6/22,,champions league,group stage,celtic,real madrid,,,0,0,0,3
+213,6/23/23,,morocco,botola pro,fus rabat,hassania agadir,,,0,0,0,0
+214,6/23/23,,morocco,botola pro,raja casablanca,difaa el jadidi,,,0,0,3,2
+215,6/20/23,,morocco,botola pro,difaa el jadidi,berkane,,,0,0,0,0
+216,6/20/23,,morocco,botola pro,far rabat,raja casablanca,,,0,0,0,0
+217,6/20/23,,morocco,botola pro,olympique de safi,olympique khouribga,,,0,0,1,0
+218,6/17/23,,morocco,botola pro,ir tanger,difaa el jadidi,,,0,0,1,0
+219,6/17/23,,morocco,botola pro,mouloudia oujda,raja casablanca,,,0,0,0,0
+220,6/17/23,,morocco,botola pro,maghreb fez,rar rabat,,,0,0,0,1
+221,6/14/23,,morocco,botola pro,hassania agadir,wydad,,,0,0,0,0
+222,6/14/23,,morocco,botola pro,difaa el jadidi,mouloudia oujda,,,0,0,0,1
+223,6/14/23,,morocco,botola pro,far rabat,olympique khouribga,,,0,0,1,0
+224,6/14/23,,morocco,botola pro,olympique de safi,fus rabat,,,0,0,0,1
+225,5/20/23,,morocco,botola pro,maghreb fez,union touarga,,,0,0,0,0
+226,5/21/23,,morocco,botola pro,ir tanger,raja casablanca,,,0,0,0,0
+227,5/29/23,,morocco,botola pro,wydad,moghreb tetouan,,,0,0,2,0
+228,5/29/23,,morocco,botola pro,fus rabat,far rabat,,,0,0,0,2
+229,5/5/23,,morocco,botola pro,mouloudia oujda,ir tanger,,,0,0,0,0
+230,5/5/23,,morocco,botola pro,union touarga,fus rabat,,,0,0,0,1
+231,5/6/23,,morocco,botola pro,raja casablanca,olympique khouribga,,,0,0,0,1
+232,4/20/23,,morocco,botola pro,olympique de safi,chabab mohammedia,,,0,0,0,0
+233,4/15/23,,morocco,botola pro,raja casablanca,jeunesse sportive soulem,,,0,0,0,0
+234,4/9/23,,morocco,botola pro,moghreb tetouan,chabab mohammedia,,,0,0,1,0
+235,4/7/23,,morocco,botola pro,maghreb fez,ir tanger,,,0,0,0,1
+236,4/3/23,,morocco,botola pro,difaa el jadidi,moghreb tetouan,,,0,0,0,0
+237,4/3/23,,morocco,botola pro,ir tanger,fus rabat,,,0,0,1,0
+238,4/3/23,,morocco,botola pro,union touarga,hassania agadir,,,0,0,1,0
+239,3/12/23,,morocco,botola pro,olympique de safi,far rabat,,,0,0,0,0
+240,3/11/23,,morocco,botola pro,moghreb tetouan,berkane,,,0,0,0,0
+241,3/10/23,,morocco,botola pro,jeunuesse sportive soualem,mouloudia oujda,,,0,0,0,2
+242,3/4/23,,morocco,botola pro,raja casablanca,chabab mohammedia,,,0,0,1,0
+243,3/4/23,,morocco,botola pro,difaa el jadidi,far rabat,,,0,0,0,1
+244,3/3/23,,morocco,botola pro,maghreb fez,fus rabat,,,0,0,0,0
+245,2/28/23,,morocco,botola pro,moghreb tetouan,raja casablanca,,,0,0,1,0
+246,2/25/23,,morocco,botola pro,hassania agadir,ir tanger,,,0,0,1,0
+247,2/21/23,,morocco,botola pro,mouloudia oujda,chabab mohammedia,,,0,0,0,0
+248,2/21/23,,morocco,botola pro,maghreb fez,olympique de safi,,,0,0,1,1
+249,1/29/23,,morocco,botola pro,wydad,fus rabat,,,0,0,0,0
+250,1/29/23,,morocco,botola pro,hassania agadir,berkane,,,0,0,0,1
+251,1/29/23,,morocco,botola pro,union touarga,difaa el jadidi,,,0,0,2,1
+252,1/28/23,,morocco,botola pro,jeunuesse sportive soualem,ir tanger,,,0,0,2,0
+253,1/28/23,,morocco,botola pro,moghreb tetouan,maghreb fez,,,0,0,1,1
+254,1/26/23,,morocco,botola pro,union touarga,olympique khouribga,,,0,0,0,0
+255,1/24/23,,morocco,botola pro,difaa el jadidi,raja casablanca,,,0,0,0,0
+256,1/26/23,,morocco,botola pro,chabab mohammedia,berkane,,,0,0,0,1
+257,1/25/23,,morocco,botola pro,wydad,maghreb fez,,,0,0,1,0
+258,1/25/23,,morocco,botola pro,moghreb tetouan,mouloudia oujda,,,0,0,1,2
+259,1/22/23,,MOrocco,botola pro,jeunuesse sportive soualem,wydad,,,0,0,0,1
+260,1/21/23,,morocco,botola pro,maghreb fez,hassania agadir,,,0,0,1,1
+261,1/21/23,,morocco,botola pro,raja casablanca,far rabat,,,0,0,1,0
+262,1/19/23,,morocco,botola pro,olympique de safi,wydad,,,0,0,0,0
+263,1/19/23,,morocco,botola pro,chabab mohammedia,fus rabat,,,0,0,1,1
+264,1/17/23,,morocco,botola pro,union touarga,berkane,,,0,0,0,1
+265,1/17/23,,morocco,botola pro,raja casablanca,mouloudia oujda,,,0,0,2,1
+266,1/15/23,,morocco,botola pro,fus rabat,olympique de safi,,,0,0,2,1
+267,1/14/23,,morocco,botola pro,ir tanger,union touarga,,,0,0,0,1
+268,1/14/23,,morocco,botola pro,berkane,raja casablanca,,,0,0,0,2
+269,1/8/23,,morocco,botola pro,chabab mohammedia,jeunesse sportive soulem,,,0,0,0,3
+270,1/8/23,,morocco,botola pro,moghreb tetouan,wydad,,,0,0,0,3
+271,1/7/23,,morocco,botola pro,berkane,mouloudia oujda,,,0,0,2,0
+272,1/7/23,,morocco,botola pro,hassania agadir,olympique de safi,,,0,0,0,1
+273,1/5/23,,morocco,botola pro,wydad,chabab mohammedia,,,0,0,1,2
+274,1/5/23,,morocco,botola pro,jeunuesse sportive soualem,far rabat,,,0,0,1,1
+275,1/4/23,,morocco,botola pro,fus rabat,union touarga,,,0,0,3,0
+276,1/4/23,,morocco,botola pro,maghreb fez,berkane,,,0,0,0,0
+277,1/3/23,,morocco,botola pro,olympique khouribga,raja casablanca,,,0,0,0,0
+278,12/29/22,,morocco,botola pro,difaa el jadidi,fus rabat,,,0,0,0,3
+279,12/29/22,,morocco,botola pro,chabab mohammedia,olympique de safi,,,0,0,1,2
+280,12/29/22,,morocco,botola pro,mouloudia oujda,olympique khouribga,,,0,0,0,0
+281,12/27/22,,morocco,botola pro,berkane,ir tanger,,,0,0,2,1
+282,12/27,,morocco,botola pro,raja casablanca,maghreb fez,,,0,0,0,0
+283,11/15/22,,morocco,botola pro,fus rabat,berkane,,,0,0,0,0
+284,11/6/22,,morocco,botola pro,wydad,union touarga,,,0,0,0,0
+285,11/4/22,,morocco,botola pro,olympique de safi,difaa el jadidi,,,0,0,0,0
+286,10/29/22,,morocco,botola pro,difaa el jadidi,jeunesse sportive soulem,,,0,0,0,0
+287,10/27/22,,morocco,botola pro,berkane,olympique khouribga,,,0,0,1,0
+288,10/23/22,,morocco,botola pro,wydad,raja casablanca,,,0,0,2,1
+289,10/19/22,,morocco,botola pro,raja casablanca,hassania agadir,,,0,0,1,0
+290,10/19/22,,morocco,botola pro,ir tanger,wydad,,,0,0,0,0
+291,10/15/22,,morocco,botola pro,moghreb tetouan,difaa el jadidi,,,0,0,1,1
+292,10/2/22,,morocco,botola pro,fus rabat,maghreb fez,,,0,0,0,0
+293,10/1/22,,morocco,botola pro,jeunuesse sportive soualem,olympique khouribga,,,0,0,0,0
+294,9/30/22,,morocco,botola pro,chabab mohammedia,raja casablanca,,,0,0,0,0
+295,9/17/22,,morocco,botola pro,mouloudia oujda,fus rabat,,,0,0,0,0
+296,9/18/22,,morocco,botola pro,olympique khouribga,wydad,,,0,0,1,2
+297,9/9/22,,morocco,botola pro,moghreb tetouan,ir tanger,,,0,0,1,0
+298,9/8/22,,morocco,botola pro,jeunuesse sportive soualem,fus rabat,,,0,0,0,1
+299,9/8/22,,morocco,botola pro,chabab mohammedia,mouloudia oujda,,,0,0,1,0
+300,9/3/22,,morocco,botola pro,maghreb fez,moghreb tetouan,,,0,0,0,0
+301,9/3/22,,morocco,botola pro,ir tanger,jeunesse sportive soulem,,,0,0,0,1
+302,9/1/22,,morocco,botola pro,berkane,hassania agadir,,,0,0,0,1
