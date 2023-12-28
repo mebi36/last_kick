@@ -1,5 +1,5 @@
 [package]
-name = "hello_rust"
+name = "last-kick"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 rand = "0.7.0-pre.2"
-polars = { version = "0.35.4", features = ["lazy", "describe", "ndarray", "object", "dtype-struct", "concat_str"] }
+polars = { version = "0.35.4", features = ["lazy"] }
 polars-io = "0.35.4"
