@@ -1,5 +1,5 @@
 [package]
-name = "last-kick"
+name = "last_kick"
 version = "0.1.0"
 edition = "2021"
 
