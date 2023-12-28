@@ -1,12 +1,11 @@
 import pandas as pd
 
 
-def read_data():
+def process_data():
     data_file_path = "last_kick_data.xlsx"
     matches_df = pd.read_excel(data_file_path, sheet_name="matches")
     matches_df = (
         matches_df
-        # [matches_df["country"]=="morocco"]
         [[
             'id',
             'match_date',
@@ -49,4 +48,4 @@ def read_data():
 
 
 if __name__ == "__main__":
-    read_data()
+    process_data()

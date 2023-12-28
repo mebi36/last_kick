@@ -10,7 +10,7 @@ fn example(path: &str) -> PolarsResult<DataFrame> {
 fn main() {
     let matches_df = example("matches.csv").unwrap();
     let events_df = example("match_events.csv").unwrap();
-    let event_join = events_df
+    let event_df_for_join = events_df
         .clone()
         .lazy()
         .select([col("match_id"), col("event_time")])
@@ -31,7 +31,7 @@ fn main() {
         ])
         .collect()
         .unwrap();
-    let comb_df = matches_df.left_join(&event_join, ["id"], ["match_id"]).unwrap();
+    let comb_df = matches_df.left_join(&event_df_for_join, ["id"], ["match_id"]).unwrap();
     let comb_df = comb_df
             .clone()
             .lazy()
